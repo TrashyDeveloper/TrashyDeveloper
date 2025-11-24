@@ -1,4 +1,4 @@
-[-] ## Hi, I'm Lumien!</br>
+## Hi, I'm Lumien!</br>
 
 [-] I’m currently a Plugin Developer across many games but mainly on <b>SCP:SL</b> and <b>Minecraft</b>.</br>
 [-] I’m learning <b>F#</b> and <b>Ruby</b> for fun!</br>
