@@ -8,4 +8,4 @@
 
 
 
-[-] ![Stupid Panel](https://github-readme-stats.vercel.app/api?username=TrashyDeveloper&theme=onedark&show_icons=true&hide_border=false&count_private=false)</br>
+![Stupid Panel](https://github-readme-stats.vercel.app/api?username=TrashyDeveloper&theme=onedark&show_icons=true&hide_border=false&count_private=false)</br>
